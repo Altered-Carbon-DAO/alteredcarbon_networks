@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Altered Carbon Mainnet 
 
 This repository contains the configuration parameters for Altered Carbon's official mainnet including the genesis.json. 
@@ -23,3 +24,6 @@ Known seed node list:
 bf53a5a303ac43e0fb8cee944b881c039fdd9206@138.68.149.230:26657,
 ```
 
+=======
+# Mainnet Instructions
+>>>>>>> 3f55dfa4056df768d455efcd8aa1811a598a435f
